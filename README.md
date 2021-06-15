@@ -11,7 +11,7 @@ lucas.plets69@gmail.com
 ___
 ## Formação Academica
 
-TECNOLOGO EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS
+TECNÓLOGO EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS
 Unipar, Cianorte - PR
 2016 - 2019
 
@@ -40,7 +40,7 @@ CNH - AB
 
 ____
 
-## Experiencia Profissional
+## Expêriencia Profissional
 
 TÉCNICO EM INFORMÁTICA / COMPANHIA MELHORAMENTOS NORTE DO PARANÁ - Agosto de 2019
 
@@ -53,18 +53,18 @@ Trabalhando diretamente com o Engeman, sistema responsável por todo o gerenciam
 ____
 ## Qualificações
 
-Iniciado Pós Graduação em DESENVOLIMENTO WEB
+Iniciado Pós Graduação em DESENVOLVIMENTO WEB
 
 Iniciado Curso de JavaScript e TypeScript - 2021
 ____
 ## Conhecimentos
 
-- Basico em desenvolvimento Android nativo
+- Basico em desenvolvimento Android nativo.
 
 ____
 ## Participação em eventos
 
- Sem participações no momento
+ Sem participações no momento.
 ____
 
 
