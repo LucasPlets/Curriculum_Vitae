@@ -20,6 +20,10 @@ Colégio Estadual, Cianorte - PR
 2011 - 2015
 
 ____
+## Projetos Pessoais
 
+Se tornar um programador - Em andamento! 
+
+____
 
 
