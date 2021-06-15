@@ -38,6 +38,15 @@ Iniciado Pós Graduação em DESENVOLIMENTO WEB
 
 Iniciado Curso de JavaScript e TypeScript - 2021
 ____
+## Conhecimentos
+
+- Basico em desenvolvimento Android nativo
+
+____
+## Participação em eventos
+
+ Sem participações no momento
+____
 
 
 
