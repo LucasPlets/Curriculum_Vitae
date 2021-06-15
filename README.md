@@ -25,5 +25,20 @@ ____
 Se tornar um programador - Em andamento! 
 
 ____
+## Redes Sociais
+
+Facebook - https://www.facebook.com/lucas.macedo.545
+
+Linkedin - https://www.linkedin.com/in/lucas-pletsch-32a5a9207/
+____
+
+## Informações adicionais
+
+CNH - AB
+
+
+
+____
+
 
 
