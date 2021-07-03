@@ -32,14 +32,6 @@ Facebook - https://www.facebook.com/lucas.macedo.545
 Linkedin - https://www.linkedin.com/in/lucas-pletsch-32a5a9207/
 ____
 
-## Informações adicionais
-
-CNH - AB
-
-
-
-____
-
 ## Expêriencia Profissional
 
 TÉCNICO EM INFORMÁTICA / COMPANHIA MELHORAMENTOS NORTE DO PARANÁ - Agosto de 2019
@@ -66,6 +58,14 @@ ____
 
  Sem participações no momento.
 ____
+
+## Informações adicionais
+
+CNH - AB
+____
+
+
+
 
 
 
